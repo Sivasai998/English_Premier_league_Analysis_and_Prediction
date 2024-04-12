@@ -49,15 +49,3 @@ Jupyter:
 		pip install tensorflow
 		pip install sklearn
 	3. Now we are all set to go ahead with the code, start running the code cells one by one to get the outputs.
-	
-Tableau: 
-Option 1 -
-	Access the visualization using the link below.
- 	https://public.tableau.com/views/603-ProjectEPLDataVisualization/Points_Table?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-	Click on the data of the teams to apply required filter it will explore more analysis of data on the team and player level.
-	You can scroll down where you may see the section of metadata there you can select and access the different visualization sheets. 
-	If you are facing difficulties to access the filters kindly refresh the page and try again.
-Option 2 - 
-	As we have already shared the Dashboard to your UMBC email-ID. 
-	1. If you are not a Tableau Online user you have to create your account on Tableau Online and access the Dashboard using the link which you have got on your emailID by Tableau. 
-	2. If you are a Tableau Online user you can directly access the dashboard using you UMBC email-id.
